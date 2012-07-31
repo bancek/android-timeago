@@ -17,3 +17,4 @@ local.properties
 
 # Eclipse
 .settings
+lint.xml
